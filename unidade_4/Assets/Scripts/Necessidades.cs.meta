@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 3bf27e1ec397756479896255204f55b5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - controlador: {instanceID: 0}
+  - bolhaFome: {fileID: 7905842227299440534, guid: 1656e05d24b0eb64eb1d0d8e434ba019, type: 3}
+  - bolhaSede: {fileID: 4951433046338028479, guid: 51283861da73e7d4f9bd62085738502d, type: 3}
+  - bolhaDiversao: {fileID: 2368843132710614121, guid: 226857602a1b71a43808f29d839c83c6, type: 3}
+  - modeloFome: {instanceID: 0}
+  - modeloSede: {instanceID: 0}
+  - modeloDiversao: {instanceID: 0}
+  - target: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
